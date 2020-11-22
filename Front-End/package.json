@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "App da disciplina front-end do IFSudMG",
+  "main": "AddPropriedade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Marcos Cesar Peixoto",
+  "license": "ISC"
+}
